@@ -29,6 +29,6 @@ Using Power Query, the raw data was transformed to ensure accuracy:
 - Extracted Names of the days of the week.
 - Created a calculated column for Net Supplier Cost.
 - Created a calculated column for Net Sales.
-- Created a calculated column for Gross Margin.
+- Created a calculated column for Gross Margin...
 
 

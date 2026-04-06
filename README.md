@@ -1,4 +1,4 @@
-# Bunny-Sales-Performance-Analysis
+# Bunny Sales Performance Analysis
 ## The analysis is strategically designed to support management decision-making by presenting clear, actionable KPI cards alongside relevant and insightful visuals that highlight performance trends and business opportunities.
 ![Dashboard](Bunny_D.PNG)
 ## Executive Summary

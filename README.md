@@ -83,6 +83,8 @@ Given the unit sales distribution across locations:
 ## Invest in Product Visibility and Merchandising
 - Improve in-store product placement in locations with lower value sales.
 - Strengthen brand presence through digital marketing, influencer partnerships, and community engagement initiatives. 
+## Link
+[Interactive Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiNGI0OTQzZmQtNjZiMS00ODZmLWE0YjktMzEzYmY2MmQxMDU5IiwidCI6IjY0M2NkODIwLWU2YzYtNGI2ZC05ZDc5LTJjOTgwOTllMTg3MCJ9)
 
 
 
